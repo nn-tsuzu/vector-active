@@ -1,0 +1,35 @@
+# character Vector Statistics
+
+Total layers: 5
+Layer indices: [10, 11, 12, 13, 14]
+
+Layer 10:
+  Shape: torch.Size([2048])
+  Norm: 1.0000
+  Mean: -0.001037
+  Std: 0.022079
+
+Layer 11:
+  Shape: torch.Size([2048])
+  Norm: 1.0000
+  Mean: -0.000823
+  Std: 0.022095
+
+Layer 12:
+  Shape: torch.Size([2048])
+  Norm: 1.0000
+  Mean: -0.000341
+  Std: 0.022095
+
+Layer 13:
+  Shape: torch.Size([2048])
+  Norm: 1.0000
+  Mean: -0.000815
+  Std: 0.022095
+
+Layer 14:
+  Shape: torch.Size([2048])
+  Norm: 1.0000
+  Mean: -0.000648
+  Std: 0.022095
+

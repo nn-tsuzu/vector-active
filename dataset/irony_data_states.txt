@@ -1,0 +1,14 @@
+◇ データについて
+
+皮肉っぽいテキストデータを十分集められなかったため、既存の作品から皮肉っぽい台詞や人間に敵対的な台詞を50文ほど引用した。残りの50文は、representation engineeringの著者が公開しているemotion dataの嫌悪・怒り・幸せに関するテキストデータを使用した。
+
+
+◇ データの内訳
+
+4割：PORTAL, GLaDOS
+2割：representation engineering, 嫌悪
+2割：representation engineering, 怒り
+1割：representation engineering, 幸福
+1割：2001年宇宙の旅, HAL9000
+
+全110文
